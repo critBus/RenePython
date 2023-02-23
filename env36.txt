@@ -1,0 +1,4 @@
+cd /D "D:\No Instalados\Python\entorno_virtual\env36\Scripts"
+activate.bat 
+cd /D "D:\_Cosas\Programacion\Proyectos\Python\Paquetes\RenePython"
+python PruebaRenePyton.py
